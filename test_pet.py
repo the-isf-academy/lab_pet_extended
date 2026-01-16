@@ -5,7 +5,7 @@ from pet import Pet
 
 pet1 = Pet()                # create an instance of a Pet
 pet1.set_name("Peanut")     # call `set_name()` method
-print(pet1.name)            # print the `name` property 
+print(pet1.name)            # print the `name` attribute 
 
 
 # 💻  call `introduce()`` method
@@ -14,4 +14,4 @@ print(pet1.name)            # print the `name` property
 # 💻  call `play()` method
 
 
-# 💻  print the `bored` property
+# 💻  print the `bored` attribute
